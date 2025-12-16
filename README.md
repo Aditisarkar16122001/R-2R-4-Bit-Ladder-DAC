@@ -65,7 +65,7 @@ Test the output using a **multimeter**
 ## Project Structure
 R-2R-4-Bit-Ladder-DAC/
 │
-├── Circuit_Diagram/
+├── Circuit_Diagram/Images/picture1-EasyEDA circuit.png
 
 ├── Calculations/
 ├── Results/
