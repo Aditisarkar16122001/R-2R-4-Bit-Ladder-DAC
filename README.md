@@ -60,13 +60,6 @@ where
 Test the output using a **multimeter**
 
 ---
-R-2R-4-Bit-Ladder-DAC/
-│
-├── Circuit_Diagram: Images/Picture1EasyEDA-Circuit.png
-├── Results/
-
-
----
 
 ## Applications
 
