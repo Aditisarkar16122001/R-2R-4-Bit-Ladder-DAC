@@ -62,11 +62,29 @@ Test the output using a **multimeter**
 
 ---
 
-## Project Structure
-R-2R-4-Bit-Ladder-DAC/
-│
-├── Circuit_Diagram/Images/picture1-EasyEDA circuit.png
 
-├── Calculations/
-├── Results/
-└── README.md
+---
+
+## Applications
+
+- Digital-to-analog conversion basics
+- Audio signal generation
+- Embedded systems learning
+- Electronics laboratory experiments
+
+---
+
+## License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## Author
+
+**Aditi Sarkar**  
+Electronics & Telecommunication Engineering  
+
+---
+
+*If you find this project helpful, consider giving it a star!*
