@@ -96,7 +96,7 @@ where
 ## Author
 
 **Aditi Sarkar**  
-Electronics & Telecommunication Engineering  
+Electronics & Communication Engineering  
 
 ---
 
