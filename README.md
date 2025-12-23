@@ -63,8 +63,8 @@ where
 ## PCB [R-2R 4-bit Ladder DAC Using IC 741]
 # PCB Dimension: length: 6 cm, height: 4.5 cm
 # PCB Images:
-- PCB Front side:
-- PCB Back side:
+- [!PCB Front side:]
+- [!PCB Back side:](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture6-PCB%20Bottom%20Side.jpg)
 -----
 
 ## Results
