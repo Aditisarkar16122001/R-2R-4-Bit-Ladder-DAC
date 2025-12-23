@@ -30,7 +30,7 @@ This project implements a **4-bit DAC**, capable of producing **16 discrete anal
 
 ### Ideal Output Equation
 
-Vout = Vref × (D3/2 + D2/4 + D1/8 + D0/16)
+$Vout = (- Rref/R) [Vref/(2^N)] × (D3/2 + D2/4 + D1/8 + D0/16)$
 
 
 where  
