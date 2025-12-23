@@ -1,6 +1,6 @@
 # R-2R-4-Bit-Ladder-DAC
 
-This repository contains the design and implementation of a **4-bit R-2R Ladder Digital-to-Analog Converter (DAC)**.  
+This repository contains the design and implementation of a **4-bit R-2R Ladder Digital-to-Analog Converter (DAC) PCB**.  
 The project demonstrates how a binary digital input can be converted into a proportional analog voltage using only two resistor values.
 
 ---
@@ -49,17 +49,32 @@ where
 
 ---
 
-## Testing
 
-| Digital Input | Expected Output    |
-|--------------|---------------------|
-| 0000         | 0 V                 |
-| 1000         | ≈ Vref / 2          |
-| 1111         | ≈ Vref (full scale) |
 
-Test the output using a **multimeter**
 
----
+
+## Tools & Software
+
+- # EasyEDA – Circuit simulation & PCB design
+
+- # Tinkercad – Online circuit verification
+
+----
+## PCB [R-2R 4-bit Ladder DAC Using IC 741]
+# PCB Dimension: length: 6 cm, height: 4.5 cm
+# PCB Images:
+- PCB Front side:
+- PCB Back side:
+-----
+
+## Results
+- Output voltage increases monotonically with digital input
+
+- Practical results closely match theoretical and simulated values
+
+- Minor deviations due to component tolerances and non-idealities
+
+----
 
 ## Applications
 
@@ -70,12 +85,13 @@ Test the output using a **multimeter**
 
 ---
 
-## License
+## References
+- EasyEDA
 
-This project is open-source and available under the **MIT License**.
+- Tinkercad
 
----
-
+- Standard Analog Electronics textbooks
+----
 ## Author
 
 **Aditi Sarkar**  
