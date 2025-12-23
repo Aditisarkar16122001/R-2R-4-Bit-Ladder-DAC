@@ -55,9 +55,9 @@ where
 
 ## Tools & Software
 
-- # EasyEDA – Circuit simulation & PCB design
+- ### EasyEDA – Circuit simulation & PCB design
 
-- # Tinkercad – Online circuit verification
+- ### Tinkercad – Online circuit verification
 
 ----
 ## PCB [R-2R 4-bit Ladder DAC Using IC 741]
