@@ -63,8 +63,8 @@ where
 ## PCB [R-2R 4-bit Ladder DAC Using IC 741]
 ### PCB Dimension: length: 6 cm, height: 4.5 cm
 ### PCB Images:
-- [PCB Front side:](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture5-PCB%20Top%20Side.jpg)
-- [PCB Back side:](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture6-PCB%20Bottom%20Side.jpg)
+- ![PCB Front side:](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture5-PCB%20Top%20Side.jpg)
+- ![PCB Back side:](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture6-PCB%20Bottom%20Side.jpg)
 -----
 
 ## Results
@@ -76,7 +76,7 @@ where
 
 ----
 ## Digital Input Vs Analog Output Comparison:
-[Digital Input Vs Analog Output Comparison](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/ip%20vs%20op%20image.png)
+![Digital Input Vs Analog Output Comparison](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/ip%20vs%20op%20image.png)
 ## Applications
 
 - Digital-to-analog conversion basics
@@ -98,6 +98,4 @@ where
 **Aditi Sarkar**  
 Electronics & Communication Engineering  
 
----
 
-*If you find this project helpful, consider giving it a star!*
