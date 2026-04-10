@@ -57,6 +57,7 @@ where
 
 - ### EasyEDA – Schematic Design & PCB design
 ![schematic](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture1EasyEDA-Circuit.png)
+![pcb](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture2-EasyEDA%20PCB.png)
 
 - ### Tinkercad – Online circuit verification
 
