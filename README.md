@@ -56,11 +56,13 @@ where
 ## Tools & Software
 
 - ### EasyEDA – Schematic Design & PCB design
+  
 ![schematic](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture1EasyEDA-Circuit.png)
 ![pcb](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture2-EasyEDA%20PCB.png)
 
 - ### Tinkercad – Online circuit verification
-
+  
+![Tinkercad](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/image.png)
 ----
 ## PCB [R-2R 4-bit Ladder DAC Using IC 741]
 ### PCB Dimension: length: 6 cm, height: 4.5 cm
