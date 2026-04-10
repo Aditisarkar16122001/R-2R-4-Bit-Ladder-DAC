@@ -55,7 +55,8 @@ where
 
 ## Tools & Software
 
-- ### EasyEDA – Circuit simulation & PCB design
+- ### EasyEDA – Schematic Design & PCB design
+![schematic](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Images/Picture1EasyEDA-Circuit.png)
 
 - ### Tinkercad – Online circuit verification
 
