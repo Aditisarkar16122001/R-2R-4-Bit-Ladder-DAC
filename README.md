@@ -75,6 +75,8 @@ where
 - Minor deviations due to component tolerances and non-idealities
 
 ----
+##Experimental Data:
+![Experimental data](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/Experimental%20Data.png)
 ## Digital Input Vs Analog Output Comparison:
 ![Digital Input Vs Analog Output Comparison](https://github.com/Aditisarkar16122001/R-2R-4-Bit-Ladder-DAC/blob/main/ip%20vs%20op%20image.png)
 ## Applications
